@@ -31,3 +31,4 @@ C:\Users\Kevin\source\repos\AnimeMediaProyect\AnimeMediaProyect\obj\Debug\net7.0
 C:\Users\Kevin\source\repos\AnimeMediaProyect\AnimeMediaProyect\obj\Debug\net7.0\AnimeMediaProyect.pdb
 C:\Users\Kevin\source\repos\AnimeMediaProyect\AnimeMediaProyect\obj\Debug\net7.0\AnimeMediaProyect.genruntimeconfig.cache
 C:\Users\Kevin\source\repos\AnimeMediaProyect\AnimeMediaProyect\obj\Debug\net7.0\ref\AnimeMediaProyect.dll
+C:\Users\Kevin\source\repos\AnimeMediaProyect\AnimeMediaProyect\obj\Debug\net7.0\AnimeMediaProyect.sourcelink.json
