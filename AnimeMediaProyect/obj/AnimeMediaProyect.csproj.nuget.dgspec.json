@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\AnimeMediaProyect.csproj": {}
+    "C:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\AnimeMediaProyect.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\AnimeMediaProyect.csproj": {
+    "C:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\AnimeMediaProyect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\AnimeMediaProyect.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\AnimeMediaProyect.csproj",
         "projectName": "AnimeMediaProyect",
-        "projectPath": "c:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\AnimeMediaProyect.csproj",
+        "projectPath": "C:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\AnimeMediaProyect.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\obj\\",
+        "outputPath": "C:\\Users\\Kevin\\source\\repos\\AnimeMediaProyect\\AnimeMediaProyect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
