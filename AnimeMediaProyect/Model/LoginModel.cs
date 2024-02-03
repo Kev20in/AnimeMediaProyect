@@ -9,7 +9,6 @@ namespace AnimeMediaProyect
 
     public class LoginResponse{
         public string ResponseMessage { get; set; }
-        [JsonIgnore]
         public int ResponseStatus { get; set; }
         public LoginRequest User { get; set; }
         public string Token { get; set; }

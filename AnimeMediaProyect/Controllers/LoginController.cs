@@ -17,7 +17,7 @@ namespace AnimeMediaProyect.Controllers
 
             }
 
-            return StatusCode(500 , loginResponse.ResponseMessage);
+            return Ok(new {loginResponse.ResponseMessage});
         }
     }
 
